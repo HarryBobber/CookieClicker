@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/monkas"
+        android:duration="2000" />
+    <item android:drawable="@drawable/feelsbadman"
+        android:duration="2000" />
+    <item android:drawable="@drawable/feelsbirthdayman"
+        android:duration="2000" />
+    <item android:drawable="@drawable/pepega"
+        android:duration="2000" />
+    <item android:drawable="@drawable/pepelaugh"
+        android:duration="2000" />
+    <item android:drawable="@drawable/poggers"
+        android:duration="2000" />
+    <item android:drawable="@drawable/sadge"
+        android:duration="2000" />
+    <item android:drawable="@drawable/monkagiga"
+        android:duration="2000" />
+    <item android:drawable="@drawable/monkahmm"
+        android:duration="2000" />
+    <item android:drawable="@drawable/widepeepohappy"
+        android:duration="2000" />
+    <item android:drawable="@drawable/monkaw"
+        android:duration="2000" />
+</animation-list>
